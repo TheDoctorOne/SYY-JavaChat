@@ -1,0 +1,9 @@
+target/
+!**/src/main/**
+!**/src/test/**
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
